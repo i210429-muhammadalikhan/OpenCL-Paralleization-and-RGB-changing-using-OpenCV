@@ -1,0 +1,1 @@
+# OpenCL-Paralleization-and-RGB-changing-using-OpenCV
